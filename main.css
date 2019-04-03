@@ -15,6 +15,13 @@ article {
 	margin-right: 20%;
 }
 
+@media only screen and (max-width: 768px) {
+	article {
+		margin-left: 8%;
+		margin-right: 8%;
+	}
+}
+
 h2 {
 	font-family: "Cormorant", serif;
 	font-size: 28px;
